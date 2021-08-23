@@ -1,1 +1,5 @@
 # CS230
+The client was The Gaming Room; we were tasked with making sure ht app would be functional across multiple operating platforms. With the game also adding players to its base, this requires more physical capacity to accommodate the increased I player base. 
+I found that working through the document was very easy and relieving to finish everything as much of it was fill in the blanks, but you had to think logically; I felt like I did this, and I also worked through the template efficiently and organized pace. 
+I would probably refine/redo the section that discusses the operating platform's pros and cons, as I feel like I could've done that in a bit of a more organized way than what I did. 
+When looking at technical requirements and users' requests, it's essential to create a healthy middle balance to create a perfectly functional application across the different operating platforms. Still, if it's not to the users' liking, we have failed and ultimately lost a client. I would implement the same strategy I did, and that's to see what technical requirements are needed and what the customer wants from us.
